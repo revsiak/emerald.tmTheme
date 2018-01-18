@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     style="display:inline">
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="9.4825239"
+       y="81.844727"
+       id="rect2987"
+       style="fill:#3f9276;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <text
+       x="40.22607"
+       y="109.94582"
+       id="text3757"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="40.22607"
+         y="109.94582"
+         id="tspan3759">Classes</tspan><tspan
+         x="40.22607"
+         y="117.80363"
+         id="tspan3761"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#3F9276</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="9.4825239"
+       y="151.34471"
+       id="rect2987-8"
+       style="fill:#70f0b2;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="40.016109"
+       y="178.94577"
+       id="text3757-9"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="40.016109"
+         y="178.94577"
+         id="tspan3841"
+         style="font-size:7px;font-weight:bold;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed, Bold'">Variables</tspan><tspan
+         x="40.016109"
+         y="186.80357"
+         id="tspan3845"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#70F0B2</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="9.4825239"
+       y="12.344711"
+       id="rect2987-9"
+       style="fill:#177b5b;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="40.224117"
+       y="39.945816"
+       id="text3757-7"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="40.224117"
+         y="39.945816"
+         id="tspan3759-4">Modules</tspan><tspan
+         x="40.224117"
+         y="47.803623"
+         id="tspan3761-4"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#177B5B</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="79.482521"
+       y="12.344675"
+       id="rect2987-3"
+       style="fill:#1470b2;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="79.482521"
+       y="81.84465"
+       id="rect2987-89"
+       style="fill:#7bb6f0;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="110.20216"
+       y="109.44572"
+       id="text3757-6"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="110.20216"
+         y="109.44572"
+         id="tspan3761-0"
+         style="font-size:7px;font-weight:bold;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed, Bold'">Function Calls</tspan><tspan
+         x="110.20216"
+         y="117.30352"
+         id="tspan4081"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#7BB6F0</tspan></text>
+    <text
+       x="110.2383"
+       y="40.445759"
+       id="text3757-19"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="110.2383"
+         y="40.445759"
+         id="tspan3761-41"
+         style="font-size:7px;font-weight:bold;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed, Bold'">Functions</tspan><tspan
+         x="110.2383"
+         y="48.303566"
+         id="tspan4067"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#1470B2</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="149.48253"
+       y="12.344705"
+       id="rect2987-39"
+       style="fill:#f01776;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="180.11623"
+       y="39.94577"
+       id="text3757-2"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="180.11623"
+         y="39.94577"
+         id="tspan3761-7"
+         style="font-size:7px;font-weight:bold;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed, Bold'">Keywords</tspan><tspan
+         x="180.11623"
+         y="47.803577"
+         id="tspan4089"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#F01776</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="219.48253"
+       y="12.344675"
+       id="rect2987-1"
+       style="fill:#171f2f;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="249.90773"
+       y="40.504353"
+       id="text3757-73"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="249.90773"
+         y="40.504353"
+         id="tspan3759-91">Background</tspan><tspan
+         x="249.90773"
+         y="48.36216"
+         id="tspan3761-34"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#171F2F</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="219.48253"
+       y="81.84465"
+       id="rect2987-2"
+       style="fill:#b1b1b1;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="250.00002"
+       y="109.44572"
+       id="text3757-54"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#171f2f;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="250.00002"
+         y="109.44572"
+         id="tspan3759-79">Comments</tspan><tspan
+         x="250.00002"
+         y="117.30352"
+         id="tspan3761-05"
+         style="font-size:6px;font-weight:normal;fill:#171f2f;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#B1B1B1</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="149.48253"
+       y="152.84471"
+       id="rect2987-96"
+       style="fill:#dcd870;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="180.36818"
+       y="180.44582"
+       id="text3757-0"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="180.36818"
+         y="180.44582"
+         id="tspan3761-95"
+         style="font-size:7px;font-weight:bold;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed, Bold'">Constants</tspan><tspan
+         x="180.36818"
+         y="188.30362"
+         id="tspan4032"
+         style="font-size:6px;font-weight:normal;fill:#f8f8f8;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#DCD870</tspan></text>
+    <rect
+       width="61.034954"
+       height="61.034954"
+       x="219.48253"
+       y="152.84471"
+       id="rect2987-06"
+       style="fill:#f8f8f8;fill-opacity:1;stroke:#ffffff;stroke-width:0.96504736;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       x="250.03419"
+       y="180.44582"
+       id="text3757-61"
+       xml:space="preserve"
+       style="font-size:7px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#171f2f;fill-opacity:1;stroke:none;display:inline;font-family:Roboto Condensed;-inkscape-font-specification:'Roboto Condensed, Bold'"><tspan
+         x="250.03419"
+         y="180.44582"
+         id="tspan3761-08"
+         style="font-size:7px;font-weight:bold;fill:#171f2f;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed, Bold'">Default</tspan><tspan
+         x="250.03419"
+         y="188.30362"
+         id="tspan4063"
+         style="font-size:6px;font-weight:normal;fill:#171f2f;fill-opacity:1;-inkscape-font-specification:'Roboto Condensed,'">#F8F8F8</tspan></text>
+  </g>
+</svg>
