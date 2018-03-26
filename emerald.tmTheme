@@ -80,7 +80,7 @@
 			<key>name</key>
 			<string>Strings</string>
 			<key>scope</key>
-			<string>string.quoted, punctuation.string</string>
+			<string>string.unquoted, string.quoted, punctuation.string</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -137,7 +137,7 @@
 			<key>name</key>
 			<string>Separators & Punctuation</string>
 			<key>scope</key>
-			<string>delimiter, punctuation.seperator, punctuation.terminator</string>
+			<string>delimiter, punctuation.seperator, punctuation.terminator, punctuation.definition</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
