@@ -137,7 +137,7 @@
 			<key>name</key>
 			<string>Separators & Punctuation</string>
 			<key>scope</key>
-			<string>delimiter, punctuation.seperator, punctuation.terminator, punctuation.definition</string>
+			<string>delimiter, punctuation.seperator, punctuation.terminator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
