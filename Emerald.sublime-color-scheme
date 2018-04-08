@@ -1,0 +1,172 @@
+{
+	"name":                                "Emerald Theme",
+	"author":                              "revsiak",
+
+	"globals": 
+	{
+		"background":                      "#111111",
+		"foreground":                      "#F8F8F8",
+
+		"caret":                           "#3F9276",
+
+		"line_highlight":                  "#7BF0B62B",
+	},
+	"gutter": {
+		"gutter":                          "#111111",
+		"gutter_foreground":               "#B1B1B1",
+	},
+	"selection": {
+		"selection":                       "#3F9276B0",
+		"selection_foreground":            "#111111",
+		"selection_border":                "#7BF0B6",
+		"selection_border_width":          "1",
+
+		"inactive_selection":              "#7BF0B62B",
+		"inactive_selection_foreground":   "#111111",
+
+		"selection_corner_style":          "round",
+		"selection_corner_radius":         "1",
+	},
+	"guides": {
+		"guide":                           "#F8F8F82B",
+		"active_guide":                    "#F8F8F8B0",
+		"stack_guide":                     "#F8F8F8",
+	},
+	"find": {
+		"highlight":                       "#FAE1322B",
+		"find_highlight":                  "#FAE132",
+		"find_highlight_foreground":       "#111111",
+	},
+	"brackets": {
+		"bracket_options":                 "underline",
+		"bracket_foreground":              "#7BF0B6",
+		"bracket_contents_options":        "foreground",
+		"bracket_contents_foreground":     "#7BF0B6",
+	},
+	"shadows": {
+		"shadow":                          "#7BF0B6",
+		"shadow_width":                    "8",
+	},
+	"tags": {
+		"tags_options":                    "#7BF0B6",
+		"tags_foreground":                 "#111111",
+	},
+	"css": {
+		"popup_css":                       "#171F2F",
+		"phantom_css":                     "#171F2F",
+	},
+	
+	"rules": 
+	[
+		{
+			"name":                        "Comments",
+			"scope":                       "comment, punctuation.comment",
+			"foreground":                  "#B1B1B1",
+		},
+		{
+			"name":                        "Numbers",
+			"scope":                       "constant.numeric",
+			"foreground":                  "#DCD780",
+		},
+		{
+			"name":                        "Language Constants",
+			"scope":                       "constant.language.boolean, constant.language.null, support.constant",
+			"foreground":                  "#DCD780",
+		},
+		{
+			"name":                        "Strings",
+			"scope":                       "string.quoted, string.unquoted, punctuation.string",
+			"foreground":                  "#DCD780",
+		},
+		{
+			"name":                        "Regular Expressions",
+			"scope":                       "string.regexp",
+			"foreground":                  "#DCD780",
+		},
+		{
+			"name":                        "Character Escapes",
+			"scope":                       "constant.character.escape",
+			"foreground":                  "#B1B1B1",
+		},
+		{
+			"name":                        "Keywords",
+			"scope":                       "keyword.control",
+			"foreground":                  "#F01776",
+		},
+		{
+			"name":                        "Operators",
+			"scope":                       "keyword.operator, punctuation.accessor",
+			"foreground":                  "#F01776",
+		},
+		{
+			"name":                        "Seperators & Punctuation",
+			"scope":                       "punctuation.seperator, punctuation.terminator, delimiter",
+			"foreground":                  "#F01776",
+		},
+		{
+			"name":                        "Declaration & Definition",
+			"scope":                       "storage.type",
+			"foreground":                  "#F01776",
+		},
+		{
+			"name":                        "Declaration & Definition Modifiers",
+			"scope":                       "storage.modifier",
+			"foreground":                  "#F01776",
+		},
+		{
+			"name":                        "Preprocessor & Namespace",
+			"scope":                       "entity.name.namespace, meta.preprocessor.include",
+			"foreground":                  "#177B5B",
+		},
+		{
+			"name":                        "Dependencies & Modules",
+			"scope":                       "support.module, keyword.operator, keyword.control.import",
+			"foreground":                  "#177B5B",
+		},
+		{
+			"name":                        "Classes",
+			"scope":                       "entity.name.class, entity.other.inherited-class, variable.other.class, meta.property.class",
+			"foreground":                  "#3F9276",
+		},
+		{
+			"name":                        "Interfaces",
+			"scope":                       "entity.name.interface",
+			"forefround":                  "#3F9276",
+		},
+		{
+			"name":                        "Structures, Unions, & Enumerators",
+			"scope":                       "entity.name.struct, support.struct, entity.name.enum, entity.name.union",
+			"foreground":                  "#17B280",
+		},
+		{
+			"name":                        "Variables",
+			"scope":                       "variable.other.class, variable.other.constant, constant.other.object, support.variable",
+			"foreground":                  ["#F8F8F8", "#BAC0B6"],
+		},
+		{
+			"name":                        "Members",
+			"scope":                       "meta.group.braces.square variable.other.constant, variable.member, meta.property.class variable.other.property, meta.property.object",
+			"foreground":                  "#7BF0B2",
+		},
+		{
+			"name":                        "Functions",
+			"scope":                       "meta.function entity.name.function, supoort.function entity.name.function, variable.function",
+			"foreground":                  "#1470B2",
+		},
+		{
+			"name":                        "Methods",
+			"scope":                       "meta.function-call entity.name.function",
+			"foreground":                  "#7BB6F0",
+		},
+		{
+			"name":                        "Function Parameters",
+			"scope":                       "meta.function variable.parameter",
+			"foreground":                  ["#F8F8F8", "#BAC0B6"],
+		},
+		{
+			"name":                        "Selectors",
+			"scope":                       "source.css meta.selector entity.name.tag, source.css meta.selector entity.other.attribute-name.psuedo-element, source.css meta.selector entity.other.attribute-name.class, source.css meta.selector entity.other.attribute-name.id",
+			"foreground":                  "#17B280",
+		},
+	]
+}
