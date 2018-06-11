@@ -1,6 +1,6 @@
 {
     "name":                                "Emerald Color Scheme",
-    "author":                              "revsiak",
+    "author":                              "Revsiak",
 
     "globals": 
     {
@@ -42,8 +42,8 @@
 
         "mispelling":                      "#F12F12B0",
 
-        "popup_css":                       "#171F2F",
-        "phantom_css":                     "#171F2F",
+        "popup_css":                       "#111111",
+        "phantom_css":                     "#111111",
     },
     
     "rules": 
