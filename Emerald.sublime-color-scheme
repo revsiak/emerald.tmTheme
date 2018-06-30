@@ -5,7 +5,7 @@
     "globals": 
     {
         "background":                      "#111111",
-        "foreground":                      "#F0F0F0",
+        "foreground":                      "#F8F8F8",
         "caret":                           "#3F9276",
         "line_highlight":                  "#7BF0B62B",
 
@@ -51,7 +51,7 @@
         {
             "name":                        "Comments",
             "scope":                       "comment, punctuation.comment",
-            "foreground":                  "#808080",
+            "foreground":                  "#646464",
         },
         {
             "name":                        "Numbers",
@@ -77,37 +77,31 @@
             "name":                        "Character Escapes",
             "scope":                       "constant.character.escape",
             "foreground":                  "#B1B1B1",
-            "font_style":                  "bold",
         },
         {
             "name":                        "Keywords",
             "scope":                       "keyword.control",
-            "foreground":                  "#F01774",
-            "font_style":                  "bold",
+            "foreground":                  "#F0174F",
         },
         {
             "name":                        "Operators",
             "scope":                       "keyword.operator, punctuation.accessor",
-            "foreground":                  "#F01774",
-            "font_style":                  "bold",
+            "foreground":                  "#F0174F",
         },
         {
             "name":                        "Seperators & Punctuation",
             "scope":                       "punctuation.seperator, punctuation.terminator, delimiter",
-            "foreground":                  "#F01774",
-            "font_style":                  "bold",
+            "foreground":                  "#F0174F",
         },
         {
             "name":                        "Declaration & Definition",
             "scope":                       "storage.type",
-            "foreground":                  "#F01774",
-            "font_style":                  "bold",
+            "foreground":                  "#F0174F",
         },
         {
             "name":                        "Declaration & Definition Modifiers",
             "scope":                       "storage.modifier",
-            "foreground":                  "#F01774",
-            "font_style":                  "bold",
+            "foreground":                  "#F0174F",
         },
         {
             "name":                        "Preprocessor & Namespace",
@@ -147,12 +141,12 @@
         {
             "name":                        "Functions",
             "scope":                       "meta.function entity.name.function, support.function entity.name.function, variable.function",
-            "foreground":                  "#1470B2",
+            "foreground":                  "#1470B8",
         },
         {
             "name":                        "Methods",
             "scope":                       "meta.function-call entity.name.function, support.function",
-            "foreground":                  "#7BB6F0",
+            "foreground":                  "#7BB4F0",
         },
         {
             "name":                        "Function Parameters",
